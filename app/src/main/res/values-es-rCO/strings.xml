@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="Character">Nombre del personaje:</string>
+    <string name="Desc">Descripción:</string>
+    <string name="image">Descripción de la imagen</string>
+    <string name="Comics">Historietas:</string>
+    <string name="Series">Series:</string>
+    <string name="Events">Eventos:</string>
+    <string name="Stories">Historias:</string>
+    <string name="search">Buscar</string>
+    <string name="WR">xxxxxxxx</string>
+    <string name="Title">Título</string>
+</resources>

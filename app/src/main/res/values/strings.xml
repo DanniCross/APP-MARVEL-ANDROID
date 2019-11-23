@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="Character">Character\'s name:</string>
+    <string name="Desc">Description:</string>
+    <string name="image">Image Description</string>
+    <string name="Comics">Comics:</string>
+    <string name="Series">Series:</string>
+    <string name="Events">Events:</string>
+    <string name="Stories">Stories:</string>
+    <string name="search">Search</string>
+    <string name="WR">xxxxxxxx</string>
+    <string name="Title">Title</string>
+</resources>
