@@ -24,7 +24,9 @@
             <com.google.android.material.textfield.TextInputLayout
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_weight="1">
+                android:layout_weight="1"
+                app:hintTextAppearance="@style/TextAppearance.AppCompat.TextInputLayout"
+                android:textColorHint="#FFFFFF">
 
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/CName"
@@ -53,6 +55,7 @@
                 android:layout_height="match_parent"
                 android:gravity="center"
                 android:text="@string/Title"
+                android:textColor="@android:color/white"
                 android:textSize="30sp" />
         </LinearLayout>
 
@@ -80,6 +83,7 @@
                 android:layout_height="match_parent"
                 android:text="@string/Comics"
                 android:textSize="20sp"
+                android:textColor="@android:color/white"
                 android:textStyle="bold" />
 
             <TextView
@@ -87,6 +91,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:textColor="@android:color/white"
                 android:text="@string/WR"
                 android:textSize="20sp" />
         </LinearLayout>
@@ -102,6 +107,7 @@
                 android:layout_height="match_parent"
                 android:text="@string/Series"
                 android:textSize="20sp"
+                android:textColor="@android:color/white"
                 android:textStyle="bold" />
 
             <TextView
@@ -110,6 +116,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:text="@string/WR"
+                android:textColor="@android:color/white"
                 android:textSize="20sp" />
 
         </LinearLayout>
@@ -125,6 +132,7 @@
                 android:layout_height="match_parent"
                 android:text="@string/Stories"
                 android:textSize="20sp"
+                android:textColor="@android:color/white"
                 android:textStyle="bold" />
 
             <TextView
@@ -133,6 +141,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:text="@string/WR"
+                android:textColor="@android:color/white"
                 android:textSize="20sp" />
 
         </LinearLayout>
@@ -148,6 +157,7 @@
                 android:layout_height="match_parent"
                 android:text="@string/Events"
                 android:textSize="20sp"
+                android:textColor="@android:color/white"
                 android:textStyle="bold" />
 
             <TextView
@@ -156,6 +166,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:text="@string/WR"
+                android:textColor="@android:color/white"
                 android:textSize="20sp" />
 
         </LinearLayout>
@@ -171,6 +182,7 @@
                 android:layout_height="wrap_content"
                 android:text="@string/Desc"
                 android:textSize="20sp"
+                android:textColor="@android:color/white"
                 android:textStyle="bold" />
 
             <TextView
@@ -179,6 +191,7 @@
                 android:layout_height="0dp"
                 android:layout_weight="1"
                 android:text="@string/WR"
+                android:textColor="@android:color/white"
                 android:textSize="20sp" />
 
         </LinearLayout>
